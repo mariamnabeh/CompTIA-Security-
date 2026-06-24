@@ -1,4 +1,3 @@
-# CompTIA-Security-
 # CompTIA Security+ (SY0-701) Study Journal
 
 Welcome! This document serves as a dedicated space to track, review, and organize your journey through the **CompTIA Security+ (SY0-701): The Total Course Specialization** on Coursera.
